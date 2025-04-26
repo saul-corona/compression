@@ -1,0 +1,302 @@
+[
+    {
+        "aircraftType": "regional"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "regional"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "regional"
+    },
+    {
+        "aircraftType": "regional"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "regional"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "regional"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "regional"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "regional"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "regional"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "regional"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "regional"
+    },
+    {
+        "aircraftType": "regional"
+    },
+    {
+        "aircraftType": "regional"
+    },
+    {
+        "aircraftType": "regional"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "regional"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "regional"
+    },
+    {
+        "aircraftType": "regional"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "regional"
+    },
+    {
+        "aircraftType": "regional"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "regional"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "regional"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "regional"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "regional"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "regional"
+    },
+    {
+        "aircraftType": "regional"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "widebody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "narrowbody"
+    },
+    {
+        "aircraftType": "regional"
+    }
+]
